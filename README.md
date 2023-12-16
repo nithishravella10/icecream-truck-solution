@@ -156,10 +156,10 @@ Implemented a system that deploys sensors for monitoring indoor and outdoor cond
    - **Issue:** DynamoDB table configuration or Lambda function code may be incorrect, affecting data storage.  
      **Solution:** Review DynamoDB table settings and Lambda function code, ensuring compatibility and correct data handling.
 
-   - **Issue:** AWS IoT Analytics channel or IAM role setup might be misconfigured for data forwarding.
+   - **Issue:** AWS IoT Analytics channel or IAM role setup might be misconfigured for data forwarding.  
      **Solution:** Inspect and adjust the settings for AWS IoT Analytics channel and IAM role to facilitate accurate data forwarding.
 
-   - **Issue:** Email alerts are not received through SNS topics.
+   - **Issue:** Email alerts are not received through SNS topics.  
      **Solution:** Check the SNS topic subscription and email verification process. Ensure the recipient's email is correctly verified.
 
 ## Issues and Features for Rev2
