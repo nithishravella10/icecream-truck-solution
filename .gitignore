@@ -1,0 +1,6 @@
+# .gitignore
+*.pem
+*.key
+*.pem.crt
+.DS_Store
+details.txt
