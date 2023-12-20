@@ -4,3 +4,5 @@
 *.pem.crt
 .DS_Store
 details.txt
+secrets.txt
+
